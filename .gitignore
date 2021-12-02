@@ -27,7 +27,6 @@ html.snippets
 html_minimal.snippets
 htmldjango.snippets
 htmljinja.snippets
-java.snippets
 javascript-angular.snippets
 javascript-ember.snippets
 javascript-jasmine-arrow.snippets
